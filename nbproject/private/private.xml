@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/wamp/www/reviews/class/dao/CategoriesDAO.class.php</file>
+            <file>file:/C:/wamp/www/reviews/search.php</file>
+            <file>file:/C:/wamp/www/reviews/search_1.php</file>
+            <file>file:/C:/wamp/www/reviews/class/mysql/CategoriesMySqlDAO.class.php</file>
+            <file>file:/C:/wamp/www/reviews/serverSideJSONP.php</file>
+            <file>file:/C:/wamp/www/reviews/homepage.css</file>
+            <file>file:/C:/wamp/www/reviews/index.php</file>
+            <file>file:/C:/wamp/www/reviews/class/sql/SqlQuery.class.php</file>
+            <file>file:/C:/wamp/www/reviews/add_review.php</file>
+            <file>file:/C:/wamp/www/reviews/include_dao.php</file>
+            <file>file:/C:/wamp/www/reviews/class/dao/DAOFactory.class.php</file>
+            <file>file:/C:/wamp/www/reviews/ajaxSource.php</file>
+            <file>file:/C:/wamp/www/reviews/web/index.php</file>
+            <file>file:/C:/wamp/www/reviews/class/dto/Categorie.class.php</file>
+            <file>file:/C:/wamp/www/reviews/details.php</file>
+            <file>file:/C:/wamp/www/reviews/class/core/ArrayList.class.php</file>
+            <file>file:/C:/wamp/www/reviews/default.php</file>
+            <file>file:/C:/wamp/www/reviews/class/mysql/ReviewsMySqlDAO.class.php</file>
+            <file>file:/C:/wamp/www/reviews/test.php</file>
+            <file>file:/C:/wamp/www/reviews/class/sql/ConnectionFactory.class.php</file>
+            <file>file:/C:/wamp/www/reviews/includes/jquery-datatables-column-filter/media/css/demo_table.css</file>
+        </group>
+    </open-files>
+</project-private>
